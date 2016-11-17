@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2016-09-07T11:34:58Z" product-name="azgr_realestate">
+		<header/>
+		<body>
+			<trans-unit id="name.description">
+				<source>name</source>
+			</trans-unit>
+			<trans-unit id="street.description">
+				<source>street</source>
+			</trans-unit>
+			<trans-unit id="street_number.description">
+				<source>streetNumber</source>
+			</trans-unit>
+			<trans-unit id="zip.description">
+				<source>zip</source>
+			</trans-unit>
+			<trans-unit id="city.description">
+				<source>city</source>
+			</trans-unit>
+			<trans-unit id="lat.description">
+				<source>will be populated automatically</source>
+			</trans-unit>
+			<trans-unit id="lng.description">
+				<source>will be populated automatically</source>
+			</trans-unit>
+			<trans-unit id="images.description">
+				<source>images</source>
+			</trans-unit>
+			<trans-unit id="public_transport_suburban_line.description">
+				<source>publicTransportSuburbanLine</source>
+			</trans-unit>
+			<trans-unit id="public_transport_suburban_station.description">
+				<source>publicTransportSuburbanStation</source>
+			</trans-unit>
+			<trans-unit id="public_transport_metro_line.description">
+				<source>publicTransportMetroLine</source>
+			</trans-unit>
+			<trans-unit id="public_transport_metro_station.description">
+				<source>publicTransportMetroStation</source>
+			</trans-unit>
+			<trans-unit id="public_transport_tram_line.description">
+				<source>publicTransportTramLine</source>
+			</trans-unit>
+			<trans-unit id="public_transport_tram_station.description">
+				<source>publicTransportTramStation</source>
+			</trans-unit>
+			<trans-unit id="public_transport_bus_line.description">
+				<source>publicTransportBusLine</source>
+			</trans-unit>
+			<trans-unit id="public_transport_bus_station.description">
+				<source>publicTransportBusStation</source>
+			</trans-unit>
+			<trans-unit id="description.description">
+				<source>description</source>
+			</trans-unit>
+			<trans-unit id="modernisation.description">
+				<source>modernisation</source>
+			</trans-unit>
+			<trans-unit id="contents.description">
+				<source>contents</source>
+			</trans-unit>
+			<trans-unit id="furnishings.description">
+				<source>furnishings</source>
+			</trans-unit>
+			<trans-unit id="contact_person.description">
+				<source>contactPerson</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2016-09-07T11:34:58Z" product-name="azgr_realestate">
+		<header/>
+		<body>
+			<trans-unit id="tx_azgrrealestate_domain_model_condominium">
+				<source>Wohnanlage</source>
+			</trans-unit>
+			<trans-unit id="tx_azgrrealestate_domain_model_condominium.name">
+				<source>Name</source>
+			</trans-unit>
+			<trans-unit id="tx_azgrrealestate_domain_model_condominium.street">
+				<source>Strasse</source>
+			</trans-unit>
+			<trans-unit id="tx_azgrrealestate_domain_model_condominium.street_number">
+				<source>Hausnummer</source>
+			</trans-unit>
+			<trans-unit id="tx_azgrrealestate_domain_model_condominium.zip">
+				<source>PLZ</source>
+			</trans-unit>
+			<trans-unit id="tx_azgrrealestate_domain_model_condominium.city">
+				<source>Stadt</source>
+			</trans-unit>
+			<trans-unit id="tx_azgrrealestate_domain_model_condominium.lat">
+				<source>Breitengrad (wird automatisch berechnet)</source>
+			</trans-unit>
+			<trans-unit id="tx_azgrrealestate_domain_model_condominium.lng">
+				<source>Längengrad (wird automatisch berechnet)</source>
+			</trans-unit>
+			<trans-unit id="tx_azgrrealestate_domain_model_condominium.images">
+				<source>Bilder</source>
+			</trans-unit>
+			<trans-unit id="tx_azgrrealestate_domain_model_condominium.public_transport_suburban_line">
+				<source>S-Bahn-Linie(n)</source>
+			</trans-unit>
+			<trans-unit id="tx_azgrrealestate_domain_model_condominium.public_transport_suburban_station">
+				<source>S-Bahn-Station</source>
+			</trans-unit>
+			<trans-unit id="tx_azgrrealestate_domain_model_condominium.public_transport_metro_line">
+				<source>U-Bahn-Linie(n)</source>
+			</trans-unit>
+			<trans-unit id="tx_azgrrealestate_domain_model_condominium.public_transport_metro_station">
+				<source>U-Bahn-Station</source>
+			</trans-unit>
+			<trans-unit id="tx_azgrrealestate_domain_model_condominium.public_transport_tram_line">
+				<source>Tram-Linie(n)</source>
+			</trans-unit>
+			<trans-unit id="tx_azgrrealestate_domain_model_condominium.public_transport_tram_station">
+				<source>Tram-Station</source>
+			</trans-unit>
+			<trans-unit id="tx_azgrrealestate_domain_model_condominium.public_transport_bus_line">
+				<source>Bus-Linie(n)</source>
+			</trans-unit>
+			<trans-unit id="tx_azgrrealestate_domain_model_condominium.public_transport_bus_station">
+				<source>Bus-Haltestelle</source>
+			</trans-unit>
+			<trans-unit id="tx_azgrrealestate_domain_model_condominium.description">
+				<source>Beschreibung</source>
+			</trans-unit>
+			<trans-unit id="tx_azgrrealestate_domain_model_condominium.modernisation">
+				<source>Modernisierung</source>
+			</trans-unit>
+			<trans-unit id="tx_azgrrealestate_domain_model_condominium.contents">
+				<source>Diese Wohnanlage umfasst</source>
+			</trans-unit>
+			<trans-unit id="tx_azgrrealestate_domain_model_condominium.furnishings">
+				<source>Ausstattungmerkmale</source>
+			</trans-unit>
+			<trans-unit id="tx_azgrrealestate_domain_model_condominium.contact_person">
+				<source>Anprechpartner</source>
+			</trans-unit>
+			<trans-unit id="tx_azgrrealestate_domain_model_apartment">
+				<source>Wohnung</source>
+			</trans-unit>
+			<trans-unit id="tx_azgrrealestate_domain_model_apartment.name">
+				<source>Name</source>
+			</trans-unit>
+			<trans-unit id="tx_azgrrealestate_domain_model_apartment.navtitle">
+				<source>Kurzbezeichnung für Navigation</source>
+			</trans-unit>
+			<trans-unit id="tx_azgrrealestate_domain_model_apartment.street">
+				<source>Strasse</source>
+			</trans-unit>
+			<trans-unit id="tx_azgrrealestate_domain_model_apartment.street_number">
+				<source>Hausnummer</source>
+			</trans-unit>
+			<trans-unit id="tx_azgrrealestate_domain_model_apartment.zip">
+				<source>PLZ</source>
+			</trans-unit>
+			<trans-unit id="tx_azgrrealestate_domain_model_apartment.city">
+				<source>Stadt</source>
+			</trans-unit>
+			<trans-unit id="tx_azgrrealestate_domain_model_apartment.lat">
+				<source>Breitengrad (wird automatisch berechnet)</source>
+			</trans-unit>
+			<trans-unit id="tx_azgrrealestate_domain_model_apartment.lng">
+				<source>Längengrad (wird automatisch berechnet)</source>
+			</trans-unit>
+			<trans-unit id="tx_azgrrealestate_domain_model_apartment.images">
+				<source>Bilder</source>
+			</trans-unit>
+			<trans-unit id="tx_azgrrealestate_domain_model_apartment.public_transport_suburban_line">
+				<source>S-Bahn-Linie(n)</source>
+			</trans-unit>
+			<trans-unit id="tx_azgrrealestate_domain_model_apartment.public_transport_suburban_station">
+				<source>S-Bahn-Station</source>
+			</trans-unit>
+			<trans-unit id="tx_azgrrealestate_domain_model_apartment.public_transport_metro_line">
+				<source>U-Bahn-Linie(n)</source>
+			</trans-unit>
+			<trans-unit id="tx_azgrrealestate_domain_model_apartment.public_transport_metro_station">
+				<source>U-Bahn-Station</source>
+			</trans-unit>
+			<trans-unit id="tx_azgrrealestate_domain_model_apartment.public_transport_tram_line">
+				<source>Tram-Linie(n)</source>
+			</trans-unit>
+			<trans-unit id="tx_azgrrealestate_domain_model_apartment.public_transport_tram_station">
+				<source>Tram-Station</source>
+			</trans-unit>
+			<trans-unit id="tx_azgrrealestate_domain_model_apartment.public_transport_bus_line">
+				<source>Bus-Linie(n)</source>
+			</trans-unit>
+			<trans-unit id="tx_azgrrealestate_domain_model_apartment.public_transport_bus_station">
+				<source>Bus-Haltestelle</source>
+			</trans-unit>
+			<trans-unit id="tx_azgrrealestate_domain_model_apartment.rent_base">
+				<source>Kaltmiete</source>
+			</trans-unit>
+			<trans-unit id="tx_azgrrealestate_domain_model_apartment.rent_addition">
+				<source>Nebenkosten</source>
+			</trans-unit>
+			<trans-unit id="tx_azgrrealestate_domain_model_apartment.rent_total">
+				<source>Gesamtmiete (wird automatisch berechnet)</source>
+			</trans-unit>
+			<trans-unit id="tx_azgrrealestate_domain_model_apartment.rent_deposit">
+				<source>Kaution</source>
+			</trans-unit>
+			<trans-unit id="tx_azgrrealestate_domain_model_apartment.count_rooms">
+				<source>Anzahl Flächen/Räume</source>
+			</trans-unit>
+			<trans-unit id="tx_azgrrealestate_domain_model_apartment.label_room">
+				<source>Zimmerbezeichnung</source>
+			</trans-unit>
+			<trans-unit id="tx_azgrrealestate_domain_model_apartment.sqm">
+				<source>Quadratmeter</source>
+			</trans-unit>
+			<trans-unit id="tx_azgrrealestate_domain_model_apartment.sqm_livingroom">
+				<source>Quadratmeter Wohnzimmer</source>
+			</trans-unit>
+			<trans-unit id="tx_azgrrealestate_domain_model_apartment.sqm_bedroom">
+				<source>Quadratmeter Schlafzimmer</source>
+			</trans-unit>
+			<trans-unit id="tx_azgrrealestate_domain_model_apartment.sqm_kitchen">
+				<source>Quadratmeter Küche</source>
+			</trans-unit>
+			<trans-unit id="tx_azgrrealestate_domain_model_apartment.sqm_hallway">
+				<source>Quadratmeter Flur</source>
+			</trans-unit>
+			<trans-unit id="tx_azgrrealestate_domain_model_apartment.sqm_bathroom">
+				<source>Quadratmeter Badezimmer</source>
+			</trans-unit>
+			<trans-unit id="tx_azgrrealestate_domain_model_apartment.sqm_cellar">
+				<source>Quadratmeter Keller</source>
+			</trans-unit>
+			<trans-unit id="tx_azgrrealestate_domain_model_apartment.sqm_total">
+				<source>Quadratmeter Gesamt (wird automatisch berechnet)</source>
+			</trans-unit>
+			<trans-unit id="tx_azgrrealestate_domain_model_apartment.description">
+				<source>Beschreibung</source>
+			</trans-unit>
+			<trans-unit id="tx_azgrrealestate_domain_model_apartment.misc">
+				<source>Sonstiges</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

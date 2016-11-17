@@ -1,0 +1,16 @@
+<html xmlns:f="http://typo3.org/ns/TYPO3/CMS/Fluid/ViewHelpers" data-namespace-typo3-fluid="true">
+<f:layout name="Default" />
+
+<f:section name="main">
+
+<f:flashMessages />
+
+<f:debug>{_all}</f:debug>
+
+<f:for each="{condominia}" as="condominium">
+	<div>
+		<f:link.action action="show" pageUid="{f:if(condition:'{settings.showPidCondominium}', then:'{settings.showPidCondominium}', else:'{pid}')}" arguments="{condominium : condominium}">{condominium.name}</f:link.action>
+	</div>
+</f:for>
+
+</f:section>

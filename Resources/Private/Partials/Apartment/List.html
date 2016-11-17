@@ -1,0 +1,8 @@
+<html xmlns:f="http://typo3.org/ns/TYPO3/CMS/Fluid/ViewHelpers" data-namespace-typo3-fluid="true">
+
+<div {f:if(condition:'{apartment.uid} == {active}', then:'class="active"')}>
+	<f:link.action action="index" pageUid="{f:if(condition:'{settings.showPidApartment}', then:'{settings.showPidApartment}', else:'{pid}')}" arguments="{apartment : apartment}">
+		{apartment.name},
+		<f:format.currency currencySign="€" decimalSeparator="," thousandsSeparator=".">{apartment.rentTotal}</f:format.currency>
+	</f:link.action>
+</div>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2016-09-07T11:34:58Z" product-name="azgr_realestate">
+		<header/>
+		<body>
+			<trans-unit id="name.description">
+				<source>name</source>
+			</trans-unit>
+			<trans-unit id="street.description">
+				<source>street</source>
+			</trans-unit>
+			<trans-unit id="street_number.description">
+				<source>streetNumber</source>
+			</trans-unit>
+			<trans-unit id="zip.description">
+				<source>zip</source>
+			</trans-unit>
+			<trans-unit id="city.description">
+				<source>city</source>
+			</trans-unit>
+			<trans-unit id="lat.description">
+				<source>will be populated automatically</source>
+			</trans-unit>
+			<trans-unit id="lng.description">
+				<source>will be populated automatically</source>
+			</trans-unit>
+			<trans-unit id="images.description">
+				<source>images</source>
+			</trans-unit>
+			<trans-unit id="public_transport_suburban_line.description">
+				<source>publicTransportSuburbanLine</source>
+			</trans-unit>
+			<trans-unit id="public_transport_suburban_station.description">
+				<source>publicTransportSuburbanStation</source>
+			</trans-unit>
+			<trans-unit id="public_transport_metro_line.description">
+				<source>publicTransportMetroLine</source>
+			</trans-unit>
+			<trans-unit id="public_transport_metro_station.description">
+				<source>publicTransportMetroStation</source>
+			</trans-unit>
+			<trans-unit id="public_transport_tram_line.description">
+				<source>publicTransportTramLine</source>
+			</trans-unit>
+			<trans-unit id="public_transport_tram_station.description">
+				<source>publicTransportTramStation</source>
+			</trans-unit>
+			<trans-unit id="public_transport_bus_line.description">
+				<source>publicTransportBusLine</source>
+			</trans-unit>
+			<trans-unit id="public_transport_bus_station.description">
+				<source>publicTransportBusStation</source>
+			</trans-unit>
+			<trans-unit id="rent_base.description">
+				<source>rentBase</source>
+			</trans-unit>
+			<trans-unit id="rent_addition.description">
+				<source>rentAddition</source>
+			</trans-unit>
+			<trans-unit id="rent_total.description">
+				<source>will be populated automatically</source>
+			</trans-unit>
+			<trans-unit id="rent_deposit.description">
+				<source>rentDeposit</source>
+			</trans-unit>
+			<trans-unit id="sqm_livingroom.description">
+				<source>sqmLivingroom</source>
+			</trans-unit>
+			<trans-unit id="sqm_bedroom.description">
+				<source>sqmBedroom</source>
+			</trans-unit>
+			<trans-unit id="sqm_kitchen.description">
+				<source>sqmKitchen</source>
+			</trans-unit>
+			<trans-unit id="sqm_hallway.description">
+				<source>sqmHallway</source>
+			</trans-unit>
+			<trans-unit id="sqm_bathroom.description">
+				<source>sqmBathroom</source>
+			</trans-unit>
+			<trans-unit id="sqm_cellar.description">
+				<source>sqmCellar</source>
+			</trans-unit>
+			<trans-unit id="sqm_total.description">
+				<source>will be populated automatically</source>
+			</trans-unit>
+			<trans-unit id="description.description">
+				<source>description</source>
+			</trans-unit>
+			<trans-unit id="misc.description">
+				<source>misc</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

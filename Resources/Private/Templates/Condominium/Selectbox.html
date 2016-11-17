@@ -1,0 +1,22 @@
+<html xmlns:f="http://typo3.org/ns/TYPO3/CMS/Fluid/ViewHelpers" data-namespace-typo3-fluid="true">
+{namespace v = FluidTYPO3\Vhs\ViewHelpers}
+
+<f:layout name="Default" />
+
+<f:section name="main">
+
+<f:flashMessages />
+<f:debug>{v:page.info(field: 'uid')}</f:debug>
+
+<f:if condition="{condominia}">
+	<select onchange="if (this.value!=='') window.location.href=this.value">
+		<option value="">Bitte wählen</option>
+	<f:for each="{condominia}" as="condominium">
+		<option value="{f:uri.action(action:'show', pageUid:'{settings.singleViewPidCondominium}', arguments:'{condominium : condominium}', section:'contacts')}">
+			{condominium.name}
+		</option>
+	</f:for>
+	</select>
+</f:if>
+
+</f:section>

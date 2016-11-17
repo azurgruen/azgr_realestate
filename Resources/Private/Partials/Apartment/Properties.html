@@ -1,0 +1,238 @@
+<html xmlns:f="http://typo3.org/ns/TYPO3/CMS/Fluid/ViewHelpers" data-namespace-typo3-fluid="true">
+<table class="tx-azgr-realestate" >
+	<tr>
+		<td>
+			<f:translate key="tx_azgrrealestate_domain_model_apartment.name" />
+		</td>
+		<td>
+		{apartment.name}
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<f:translate key="tx_azgrrealestate_domain_model_apartment.street" />
+		</td>
+		<td>
+		{apartment.street}
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<f:translate key="tx_azgrrealestate_domain_model_apartment.street_number" />
+		</td>
+		<td>
+		{apartment.streetNumber}
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<f:translate key="tx_azgrrealestate_domain_model_apartment.zip" />
+		</td>
+		<td>
+		{apartment.zip}
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<f:translate key="tx_azgrrealestate_domain_model_apartment.city" />
+		</td>
+		<td>
+		{apartment.city}
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<f:translate key="tx_azgrrealestate_domain_model_apartment.lat" />
+		</td>
+		<td>
+		{apartment.lat}
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<f:translate key="tx_azgrrealestate_domain_model_apartment.lng" />
+		</td>
+		<td>
+		{apartment.lng}
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<f:translate key="tx_azgrrealestate_domain_model_apartment.images" />
+		</td>
+		<td>
+				<f:for each="{apartment.images}" as="image" >
+					<f:image src="{image.originalResource.publicUrl}" width="200"/>
+				</f:for>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<f:translate key="tx_azgrrealestate_domain_model_apartment.public_transport_suburban_line" />
+		</td>
+		<td>
+		{apartment.publicTransportSuburbanLine}
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<f:translate key="tx_azgrrealestate_domain_model_apartment.public_transport_suburban_station" />
+		</td>
+		<td>
+		{apartment.publicTransportSuburbanStation}
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<f:translate key="tx_azgrrealestate_domain_model_apartment.public_transport_metro_line" />
+		</td>
+		<td>
+		{apartment.publicTransportMetroLine}
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<f:translate key="tx_azgrrealestate_domain_model_apartment.public_transport_metro_station" />
+		</td>
+		<td>
+		{apartment.publicTransportMetroStation}
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<f:translate key="tx_azgrrealestate_domain_model_apartment.public_transport_tram_line" />
+		</td>
+		<td>
+		{apartment.publicTransportTramLine}
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<f:translate key="tx_azgrrealestate_domain_model_apartment.public_transport_tram_station" />
+		</td>
+		<td>
+		{apartment.publicTransportTramStation}
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<f:translate key="tx_azgrrealestate_domain_model_apartment.public_transport_bus_line" />
+		</td>
+		<td>
+		{apartment.publicTransportBusLine}
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<f:translate key="tx_azgrrealestate_domain_model_apartment.public_transport_bus_station" />
+		</td>
+		<td>
+		{apartment.publicTransportBusStation}
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<f:translate key="tx_azgrrealestate_domain_model_apartment.rent_base" />
+		</td>
+		<td>
+		{apartment.rentBase}
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<f:translate key="tx_azgrrealestate_domain_model_apartment.rent_addition" />
+		</td>
+		<td>
+		{apartment.rentAddition}
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<f:translate key="tx_azgrrealestate_domain_model_apartment.rent_total" />
+		</td>
+		<td>
+		{apartment.rentTotal}
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<f:translate key="tx_azgrrealestate_domain_model_apartment.rent_deposit" />
+		</td>
+		<td>
+		{apartment.rentDeposit}
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<f:translate key="tx_azgrrealestate_domain_model_apartment.sqm_livingroom" />
+		</td>
+		<td>
+		{apartment.sqmLivingroom}
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<f:translate key="tx_azgrrealestate_domain_model_apartment.sqm_bedroom" />
+		</td>
+		<td>
+		{apartment.sqmBedroom}
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<f:translate key="tx_azgrrealestate_domain_model_apartment.sqm_kitchen" />
+		</td>
+		<td>
+		{apartment.sqmKitchen}
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<f:translate key="tx_azgrrealestate_domain_model_apartment.sqm_hallway" />
+		</td>
+		<td>
+		{apartment.sqmHallway}
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<f:translate key="tx_azgrrealestate_domain_model_apartment.sqm_bathroom" />
+		</td>
+		<td>
+		{apartment.sqmBathroom}
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<f:translate key="tx_azgrrealestate_domain_model_apartment.sqm_cellar" />
+		</td>
+		<td>
+		{apartment.sqmCellar}
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<f:translate key="tx_azgrrealestate_domain_model_apartment.sqm_total" />
+		</td>
+		<td>
+		{apartment.sqmTotal}
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<f:translate key="tx_azgrrealestate_domain_model_apartment.description" />
+		</td>
+		<td>
+		{apartment.description}
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<f:translate key="tx_azgrrealestate_domain_model_apartment.misc" />
+		</td>
+		<td>
+		{apartment.misc}
+		</td>
+	</tr>
+</table>
+</html>
